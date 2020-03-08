@@ -1,0 +1,3 @@
+# http://insideairbnb.com/get-the-data.html
+
+# New York City -> listings.csv.gz
